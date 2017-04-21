@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package restServices;
+
+/**
+ * @author mahmoud
+ *
+ */
+public class User {
+
+}

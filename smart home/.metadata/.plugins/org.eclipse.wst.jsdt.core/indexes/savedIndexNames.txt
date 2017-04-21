@@ -1,0 +1,10 @@
+INDEX VERSION 1.3+E:\University\Third year\Second Semester\Software Architecture\smart home\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3678947358.index
+3678947358.index
+1883915855.index
+601024483.index
+1539964416.index
+3984088155.index
+583664821.index
+2069168160.index
+3791011004.index

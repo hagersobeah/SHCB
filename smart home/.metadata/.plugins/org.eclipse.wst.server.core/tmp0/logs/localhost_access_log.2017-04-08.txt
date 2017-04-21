@@ -1,0 +1,10 @@
+0:0:0:0:0:0:0:1 - - [08/Apr/2017:12:28:44 +0200] "GET /SmartHomeControlBoard/Home.jsp HTTP/1.1" 200 6718
+0:0:0:0:0:0:0:1 - - [08/Apr/2017:12:47:16 +0200] "GET /SmartHomeControlBoard/SignUp.jsp HTTP/1.1" 200 996
+0:0:0:0:0:0:0:1 - - [08/Apr/2017:12:51:17 +0200] "GET /SmartHomeControlBoard/SignUp.jsp HTTP/1.1" 200 5866
+0:0:0:0:0:0:0:1 - - [08/Apr/2017:12:53:14 +0200] "GET /SmartHomeControlBoard/SignUp.jsp HTTP/1.1" 200 5751
+0:0:0:0:0:0:0:1 - - [08/Apr/2017:13:18:03 +0200] "GET /SmartHomeControlBoard/SignUp.jsp HTTP/1.1" 200 2604
+0:0:0:0:0:0:0:1 - - [08/Apr/2017:13:18:03 +0200] "GET /css/Signup.css HTTP/1.1" 404 979
+0:0:0:0:0:0:0:1 - - [08/Apr/2017:13:18:25 +0200] "GET /SmartHomeControlBoard/SignUp.jsp HTTP/1.1" 200 2612
+0:0:0:0:0:0:0:1 - - [08/Apr/2017:13:18:25 +0200] "GET /SmartHomeControlBoard/WebContent/css/Signup.css HTTP/1.1" 404 1045
+0:0:0:0:0:0:0:1 - - [08/Apr/2017:13:20:56 +0200] "GET /SmartHomeControlBoard/SignUp.jsp HTTP/1.1" 500 3160
+0:0:0:0:0:0:0:1 - - [08/Apr/2017:13:22:09 +0200] "GET /SmartHomeControlBoard/SignUp.jsp HTTP/1.1" 200 2607
